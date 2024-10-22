@@ -2,11 +2,6 @@
 
 I'm a third-semester computer science student passionate about **data mining**, **full-stack development**, and **game design**. I love building projects that are both technically challenging and fun to use!
 
-## 🔥 What I'm Up To
-
-- 🚀 **Portfolio:** Showcasing my skills with **TypeScript** and web development.
-- 🎮 **Tic-Tac-Toe:** A classic game built with **TypeScript**, because why not?
-
 ## 🌐 Personal Portfolio:
 
 Check out my projects and journey at [frzxw.vercel.app](https://frzxw.vercel.app) 🌍
