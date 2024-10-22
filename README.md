@@ -1,4 +1,4 @@
-# Hey there!
+# Hey there! 👋
 
 I'm a third-semester computer science student passionate about **data mining**, **full-stack development**, and **game design**. I love building projects that are both technically challenging and fun to use!
 
@@ -14,12 +14,12 @@ Check out my projects and journey at [frzxw.vercel.app](https://frzxw.vercel.app
 - **Version Control:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 - **Data Science:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
-## 📈 GitHub Stats
-
-![frzxw's GitHub stats](https://github-readme-stats.vercel.app/api?username=frzxw&show_icons=true&theme=radical)
-
-## 📬 Get in Touch:
+## 📬 Contacts:
 
 - **Email:** frzwibisono@gmail.com
 
 Let's connect and create something amazing! 💡
+
+## 📈 GitHub Stats
+
+![frzxw's GitHub stats](https://github-readme-stats.vercel.app/api?username=frzxw&show_icons=true&theme=radical)
