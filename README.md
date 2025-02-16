@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm a third-semester computer science student passionate about **data science** and **software development**. I love building projects that are both technically challenging and useful for solving real-world problems. My goal is to continuously learn and apply new technologies to create innovative solutions.
+I'm a fourth-semester computer science student passionate about **data science** and **software development**. I love building projects that are both technically challenging and useful for solving real-world problems. My goal is to continuously learn and apply new technologies to create innovative solutions.
 
 ## 🌐 Portfolio
 
