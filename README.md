@@ -1,10 +1,6 @@
 # Hey there! 👋
 
-I'm a fourth-semester computer science student passionate about **data science** and **software development**. I love building projects that are both technically challenging and useful for solving real-world problems. My goal is to continuously learn and apply new technologies to create innovative solutions.
-
-## 🌐 Portfolio
-
-Check out my projects and journey at [frzxw.vercel.app](https://frzxw.vercel.app) 🌍
+I'm a computer science student passionate about **software development**. I enjoy building projects that solve real-world problems and aim to continuously learn and apply new technologies.
 
 ## 🛠️ Technologies
 
@@ -24,16 +20,18 @@ Check out my projects and journey at [frzxw.vercel.app](https://frzxw.vercel.app
   ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue-dot-js&logoColor=white)
 
 - **Database**
 
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 - **CI/CD**
 
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-  
+
 - **Data Science**
 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -42,19 +40,16 @@ Check out my projects and journey at [frzxw.vercel.app](https://frzxw.vercel.app
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
   ![seaborn](https://img.shields.io/badge/seaborn-3776AB?style=flat-square&logo=seaborn&logoColor=white)
   ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-  ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
 - **Machine Learning**
 
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-## 📬 Contacts
-
-- **Email:** frzwibisono@gmail.com
-
-Let's connect and create something amazing! 💡
+  ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 ## 📈 GitHub Stats
 
 ![frzxw's GitHub stats](https://github-readme-stats.vercel.app/api?username=frzxw&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frzxw&layout=compact&theme=radical)
