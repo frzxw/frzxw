@@ -45,4 +45,4 @@ I'm a computer science student passionate about **software development**. I enjo
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ![frzxw's GitHub stats](https://github-readme-stats.vercel.app/api?username=frzxw&show_icons=true&theme=ambient_gradient&card_width=400)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frzxw&theme=ambient_gradient&card_width=400&langs_count=12&hide_progress=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frzxw&theme=ambient_gradient&card_width=400)
