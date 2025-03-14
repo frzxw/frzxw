@@ -23,8 +23,6 @@ I'm a computer science student passionate about **software development**. I enjo
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue-dot-js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-## 📊 Data & AI
-
 ### 🗄️ Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
