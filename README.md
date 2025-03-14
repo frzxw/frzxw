@@ -48,6 +48,6 @@ I'm a computer science student passionate about **software development**. I enjo
 
   <img src="https://github-readme-stats.vercel.app/api?username=frzxw&show_icons=true&theme=ambient_gradient&card_width=400&hide_border=true" height="200" alt="GitHub Stats">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frzxw&theme=ambient_gradient&layout=compact&card_width=400&langs_count=8&hide=jupyter%20notebook&hide_border=true" height="200" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frzxw&theme=ambient_gradient&layout=compact&card_width=350&langs_count=8&hide=jupyter%20notebook&hide_border=true" height="200" alt="Top Languages">
 
 </div>
