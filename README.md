@@ -46,5 +46,5 @@ I'm a computer science student passionate about **software development**. I enjo
 
 ## 📈 GitHub Stats
 
-![frzxw's GitHub stats](https://github-readme-stats.vercel.app/api?username=frzxw&show_icons=true&theme=gradient)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frzxw&layout=compact&theme=gradient&hide_progress=true)
+![frzxw's GitHub stats](https://github-readme-stats.vercel.app/api?username=frzxw&show_icons=true&theme=ambient_gradient)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frzxw&layout=compact&theme=ambient_gradient&hide_progress=true)
