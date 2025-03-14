@@ -44,33 +44,10 @@ I'm a computer science student passionate about **software development**. I enjo
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 📊 GitHub Stats
-
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=frzxw&show_icons=true&theme=ambient_gradient&hide_border=true&count_private=true" alt="GitHub Stats">
-      </td>
-      <td>
-        <img src="https://streak-stats.demolab.com/?user=frzxw&theme=ambient_gradient&hide_border=true" alt="GitHub Streak">
-      </td>
-    </tr>
-  </table>
-</div>
 
----
+  <img src="https://github-readme-stats.vercel.app/api?username=frzxw&show_icons=true&theme=ambient_gradient&card_width=400&hide_border=true" height="200" alt="GitHub Stats">
 
-### 💻 Most Used Languages
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frzxw&theme=ambient_gradient&layout=compact&card_width=400&langs_count=8&hide_border=true" height="200" alt="Top Languages">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frzxw&layout=compact&theme=ambient_gradient&card_width=400&hide=jupyter%20notebook&hide_border=true" alt="Top Languages">
-</div>
-
----
-
-### ⚡ Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=frzxw&theme=github-dark&hide_border=true" alt="GitHub Activity Graph">
 </div>
