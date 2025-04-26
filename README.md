@@ -10,7 +10,6 @@ I'm a computer science student with a passion for **software development**. I en
 ### 🚀 Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-white?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-white?style=flat-square&logo=nextdotjs&logoColor=000000)
-![Vue.js](https://img.shields.io/badge/Vue.js-white?style=flat-square&logo=vue-dot-js&logoColor=4FC08D)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-white?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-white?style=flat-square&logo=bootstrap&logoColor=7952B3)
 ![Material-UI](https://img.shields.io/badge/Material--UI-white?style=flat-square&logo=mui&logoColor=0081CB)
