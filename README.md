@@ -30,7 +30,6 @@ I'm a computer science student with a passion for **software development**. I en
 ### 📊 Data Science & Machine Learning
 ![pandas](https://img.shields.io/badge/pandas-white?style=flat-square&logo=pandas&logoColor=150458)
 ![NumPy](https://img.shields.io/badge/NumPy-white?style=flat-square&logo=numpy&logoColor=013243)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=flat-square&logo=matplotlib&logoColor=11557C)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-white?style=flat-square&logo=tensorflow&logoColor=FF6F00)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-white?style=flat-square&logo=scikit-learn&logoColor=F7931E)
 ![Jupyter](https://img.shields.io/badge/Jupyter-white?style=flat-square&logo=jupyter&logoColor=F37626)
