@@ -1,8 +1,6 @@
 # frzxw
 
-**Software Engineer**
-
-I build fast, reliable, and scalable systems with a focus on **performance**, **correctness**, and **experience**. I specialize in full-stack development, leveraging **TypeScript** for rapid iteration and **Rust** for performance-critical services and infrastructure.
+I build fast, reliable, and scalable systems with a focus on **performance**, **correctness**, and **experience**. I specialize in full-stack development, leveraging **TypeScript** for rapid iteration and **Rust** for performance-critical services and infrastructure. I am dedicated to **solving real-world problems** using cutting-edge technology and **AI solutions**.
 
 ---
 
