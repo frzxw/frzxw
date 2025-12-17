@@ -7,7 +7,7 @@ I build fast, reliable, and scalable systems with a focus on **performance**, **
 ## 🛠 Technology Stack
 
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,rust,python,react,astro,npm,vite,tailwind,nodejs,nestjs,express,django,flask,fastapi,postgres,mysql,mongo,redis,supabase,prisma,docker,netlify,vercel,gcp,git,github,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,rust,python,php,react,npm,vite,vitest,tailwind,nodejs,express,nestjs,fastapi,laravel,postgres,mysql,mongo,redis,supabase,prisma,docker,netlify,vercel,git,github,postman,vscode&perline=15" />
   </div>
 
 
